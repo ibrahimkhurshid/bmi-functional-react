@@ -1,0 +1,15 @@
+.btn-container{
+    width: 25%;
+    margin: 0 auto;
+    margin-top: 1rem;
+}
+
+.bmi-calc-btn{
+    display: block;
+    margin: 0 auto;
+    border-radius: 25px 25px;
+    padding: 1rem;
+    background-color: #3e4eb8;
+    color: #f9f9f9;
+    border-style: none;
+}

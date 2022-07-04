@@ -1,0 +1,18 @@
+.input-container{
+  width: 49%;
+  display: inline-block;
+}
+
+.input-field{
+    font-size: 1.5em;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    width: 90%;
+    margin: 0 auto;
+    text-align: center;
+    border-radius: 25px 25px;
+  }
+
+.input-container label{
+  color: #f9f9f9;
+  font-size: 0.8rem;
+}
